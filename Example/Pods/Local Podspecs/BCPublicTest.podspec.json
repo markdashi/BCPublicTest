@@ -19,5 +19,5 @@
     "ios": "8.0"
   },
   "source_files": "BCPublicTest/Classes/**/*.h",
-  "vendored_frameworks": "BCPublicTest/Products/*.framework"
+  "vendored_frameworks": "BCPublicTest/Products/BCPublicTest.framework"
 }
