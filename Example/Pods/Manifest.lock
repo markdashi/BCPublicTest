@@ -1,5 +1,5 @@
 PODS:
-  - BCPublicTest (0.1.0)
+  - BCPublicTest (0.1.1)
 
 DEPENDENCIES:
   - BCPublicTest (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  BCPublicTest: 0b9dc2f6aecaef00e8b2ebc8715bcf992207e64f
+  BCPublicTest: f927f8b295e914f29aef0c70313166282dc2c2e7
 
 PODFILE CHECKSUM: 7ff25c02a03bd9bf96bbc60abb34f925869adc60
 
