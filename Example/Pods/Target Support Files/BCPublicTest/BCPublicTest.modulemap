@@ -1,0 +1,6 @@
+framework module BCPublicTest {
+  umbrella header "BCPublicTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
