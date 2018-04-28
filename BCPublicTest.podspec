@@ -14,11 +14,7 @@ BCPublicTest  是一个简单的测试的库文件。
   s.source           = { :git => 'https://github.com/markdashi/BCPublicTest.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '8.0'
-if ENV['IS_SOURCE']
   s.source_files = 'BCPublicTest/Classes/**/*'
-else
-
-end
 
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
