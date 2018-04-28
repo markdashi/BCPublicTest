@@ -1,0 +1,1 @@
+../../../../../BCPublicTest/Classes/BCTest.h

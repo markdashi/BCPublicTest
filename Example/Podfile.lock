@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  BCPublicTest: efcaf8192e7e08e5417d1ac98103b0576a63600b
+  BCPublicTest: 0b9dc2f6aecaef00e8b2ebc8715bcf992207e64f
 
 PODFILE CHECKSUM: 7ff25c02a03bd9bf96bbc60abb34f925869adc60
 
